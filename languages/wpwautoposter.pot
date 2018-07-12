@@ -1,0 +1,3273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Auto Poster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-12 13:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:604
+msgid " displays the post type,"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:789
+msgid " minutes"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:580
+msgid " Recommended image width between 320 to 1080 pixels."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:518
+msgid " to Bufferapp of this user(s)"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:585
+msgid " to Facebook"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:513
+msgid " to Instagram"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:523
+msgid " to Linkedin"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:553
+msgid " to Pinterest"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:518
+msgid " to Twitter of this user(s)"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:439
+msgid "--Select--"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:979
+msgid "00 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:980
+msgid "05 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:941
+msgid "1 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:953
+msgid "1 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:950
+msgid "10 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:981
+msgid "10 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:962
+msgid "10 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:951
+msgid "11 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:963
+msgid "11 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:940
+msgid "12 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:952
+msgid "12 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:982
+msgid "15 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:942
+msgid "2 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:954
+msgid "2 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:983
+msgid "20 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:984
+msgid "25 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:943
+msgid "3 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:955
+msgid "3 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:985
+msgid "30 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:986
+msgid "35 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:944
+msgid "4 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:956
+msgid "4 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:987
+msgid "40 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:988
+msgid "45 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:945
+msgid "5 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:957
+msgid "5 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:989
+msgid "50 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:990
+msgid "55 Min"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:946
+msgid "6 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:958
+msgid "6 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:947
+msgid "7 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:959
+msgid "7 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:948
+msgid "8 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:960
+msgid "8 PM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:949
+msgid "9 AM"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:961
+msgid "9 PM"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:391
+msgid "</code>"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:398
+msgid ""
+"<b>Note: </b>Please note the Facebook App, Facebook profile or page and the "
+"user who authorizes the app MUST belong to the <b>same Facebook account</b>. "
+"So please make sure you are logged in to Facebook as the same user who "
+"created the app."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:443
+msgid ""
+"<b>Note: </b>Please note the LinkedIn App, LinkedIn profile or page and the "
+"user who authorizes the app MUST belong to the <b>same LinkedIn account</b>. "
+"So please make sure you are logged in to LinkedIn as the same user who "
+"created the app."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:463
+msgid ""
+"<b>Note: </b>Please note the Tumblr App, Tumblr profile or page and the user "
+"who authorizes the app MUST belong to the <b>same Tumblr account</b>. So "
+"please make sure you are logged in to Tumblr as the same user who created "
+"the app."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:343
+msgid ""
+"<strong>Default</strong> - All scheduled post will be posted by post ID in "
+"descending order."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:648
+msgid ">Schedule Wall Posts</a> and select schedule option first."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:367
+msgid "Access Token"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:370
+msgid "Access Token Secret"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-renderer.php:79
+msgid "Account Name"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:95
+msgid "Activate Products"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:733
+msgid "Add"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:612
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:539
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:549
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:545
+#: includes/admin/forms/wpw-auto-poster-facebook.php:653
+#: includes/admin/forms/wpw-auto-poster-instagram.php:566
+#: includes/admin/forms/wpw-auto-poster-twitter.php:557
+msgid "Add Image"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:464
+#: includes/admin/forms/wpw-auto-poster-facebook.php:476
+#: includes/admin/forms/wpw-auto-poster-instagram.php:433
+#: includes/admin/forms/wpw-auto-poster-twitter.php:431
+msgid "Add more"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:1051
+#: includes/meta-boxes/meta-box-class.php:1107
+msgid "Add more files"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:29
+msgid "Add New"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:30
+msgid "Add New Social Posing Log"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-plugin-settings.php:74
+msgid "All Settings Reset Successfully."
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:33
+msgid "All Social Posing Logs"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:368
+msgid "Allow autopost from thirdparty plugins:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:382
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:402
+#: includes/admin/forms/wpw-auto-poster-facebook.php:389
+#: includes/admin/forms/wpw-auto-poster-facebook.php:409
+msgid "Allowing permissions"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:438
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:424
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:417
+msgid "Allowing permissions:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:361
+msgid "API Key"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:364
+msgid "API Secret"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-scripts.php:147
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:849
+msgid "As a Status Update"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:848
+msgid "As a Wall Post"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:294
+msgid "Automatic"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:551
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:523
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:516
+#: includes/admin/forms/wpw-auto-poster-facebook.php:583
+#: includes/admin/forms/wpw-auto-poster-instagram.php:511
+#: includes/admin/forms/wpw-auto-poster-twitter.php:516
+msgid "Autopost"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:471
+msgid "Autopost to BufferApp"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:525
+msgid "Autopost to Facebook"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:466
+msgid "Autopost to Instagram"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:475
+msgid "Autopost to LinkedIn"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:502
+msgid "Autopost to Pinterest"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:495
+msgid "Autopost to Tumblr"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:463
+msgid "Autopost to Twitter"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:353
+msgid ""
+"Before you can start publishing your content to BufferApp you need to create "
+"a BufferApp Application."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:381
+msgid ""
+"Before you can start publishing your content to Facebook you need to create "
+"a Facebook Application."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:373
+msgid ""
+"Before you can start publishing your content to Instagram you need to "
+"provide your Instagram username and password."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:351
+msgid ""
+"Before you can start publishing your content to LinkedIn you need to create "
+"a LinkedIn Application."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:374
+msgid ""
+"Before you can start publishing your content to Pinterest you need to create "
+"a Pinterest Application."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:373
+msgid ""
+"Before you can start publishing your content to Tumblr you need to create a "
+"Tumblr Application."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:354
+msgid ""
+"Before you can start publishing your content to Twitter you need to create a "
+"Twitter Application."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:1241
+msgid "bit.ly"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:307
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:305
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:286
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:286
+#: includes/admin/forms/wpw-auto-poster-facebook.php:314
+#: includes/admin/forms/wpw-auto-poster-instagram.php:306
+#: includes/admin/forms/wpw-auto-poster-twitter.php:287
+msgid "Bit.ly Access Token"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:825
+#: includes/admin/class-wpw-auto-poster-admin.php:458
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:428
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:827
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:690
+msgid "BufferApp"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:340
+msgid "BufferApp API Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:350
+msgid "BufferApp Application:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:42
+msgid "BufferApp General Settings"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-ba-posting.php:483
+msgid ""
+"BufferApp: Please give Grant extended permission before posting to the "
+"BufferApp."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-ba-posting.php:474
+#, php-format
+msgid "BufferApp: Something was wrong %s"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:361
+msgid "Cancel"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:410
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:439
+msgid "Category"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-plugin-settings.php:82
+msgid "Changes Saved."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:124
+msgid ""
+"Check each of the post types that you want to post automatically to Facebook "
+"when they get published."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:136
+msgid ""
+"Check each of the post types that you want to post automatically to "
+"Instagram when they get published."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:111
+msgid ""
+"Check each of the post types that you want to post automatically to LinkedIn "
+"when they get published."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:135
+msgid ""
+"Check each of the post types that you want to post automatically to "
+"Pinterest when they get published."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:113
+msgid ""
+"Check each of the post types that you want to post automatically to Twitter "
+"when they get published."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:112
+msgid ""
+"Check each of the post types you want to automatically post to BufferApp "
+"when they get published."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:113
+msgid ""
+"Check each of the post types you want to automatically post to Tumblr when "
+"they get published."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:281
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:279
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:260
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:260
+#: includes/admin/forms/wpw-auto-poster-facebook.php:288
+#: includes/admin/forms/wpw-auto-poster-instagram.php:287
+#: includes/admin/forms/wpw-auto-poster-twitter.php:261
+msgid ""
+"Check this box if you want to use pretty permalink. i.e. http://example."
+"com/test-post/. (Not Recommnended)."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:373
+msgid ""
+"Check this box if you wanted to allow autoposting from any thirdparty "
+"plugins which allows to submit data from frontend."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:68
+msgid ""
+"Check this box, if you want to automatically post your new content to "
+"Facebook."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:80
+msgid ""
+"Check this box, if you want to automatically post your new content to "
+"Instagram."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:54
+msgid ""
+"Check this box, if you want to automatically post your new content to "
+"LinkedIn."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:79
+msgid ""
+"Check this box, if you want to automatically post your new content to "
+"Pinterest."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:54
+msgid ""
+"Check this box, if you want to automatically post your new content to "
+"Twitter."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:55
+msgid "Check this box, if you want to autopost your content to BufferApp."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:55
+msgid "Check this box, if you want to autopost your content to Tumblr."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:547
+msgid "Check this box, if you want to disable image posting for twitter."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:529
+msgid "Choose posting type which you want to use, Default is Text posting."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:392
+msgid ""
+"Choose posting type which you want to use. Leave it empty to use the default "
+"one from the settings page."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:580
+msgid ""
+"Choose the template you want to use to get your content published on twitter."
+" You can customize this content for your needs. There are also several "
+"template tags you can use to customize the content. The template tags will "
+"then be replaced with the related information."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:248
+msgid ""
+"Choose whether you want to post the full content or just a snippet to your "
+"Tumblr page. if you choose snippets, the plugin will post the first 200 "
+"characters from your post. You always have the ability to customize that "
+"within the meta box."
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1007
+msgid "Clear date"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:578
+msgid "Clear Filter"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-scripts.php:146
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:55
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:358
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:499
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:39
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:357
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:426
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:492
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:38
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:336
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:412
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:472
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:39
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:337
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:405
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:468
+#: includes/admin/forms/wpw-auto-poster-facebook.php:52
+#: includes/admin/forms/wpw-auto-poster-facebook.php:365
+#: includes/admin/forms/wpw-auto-poster-facebook.php:522
+#: includes/admin/forms/wpw-auto-poster-instagram.php:56
+#: includes/admin/forms/wpw-auto-poster-instagram.php:357
+#: includes/admin/forms/wpw-auto-poster-instagram.php:463
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:71
+#: includes/admin/forms/wpw-auto-poster-twitter.php:36
+#: includes/admin/forms/wpw-auto-poster-twitter.php:338
+#: includes/admin/forms/wpw-auto-poster-twitter.php:460
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-renderer.php:58
+msgid "Content"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:45
+msgid "Custom"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:166
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:317
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:407
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:500
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:655
+msgid "Custom Link:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:594
+msgid "Custom Message"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:120
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:320
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:410
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:503
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:583
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:662
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:619
+#: includes/admin/forms/wpw-auto-poster-facebook.php:661
+#: includes/admin/forms/wpw-auto-poster-instagram.php:583
+msgid "Custom Message:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:297
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:395
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:483
+msgid "Custom Title:"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:903
+msgid "Daily"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:228
+msgid "Date"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:920
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:133
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:136
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:222
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:311
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:494
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:577
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:652
+msgid "Default"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:305
+#: includes/meta-boxes/meta-box-class.php:1038
+#: includes/meta-boxes/meta-box-class.php:1089
+#: includes/meta-boxes/meta-box-class.php:1101
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:439
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:439
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:457
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:457
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:194
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:270
+#: includes/admin/forms/wpw-auto-poster-facebook.php:451
+#: includes/admin/forms/wpw-auto-poster-facebook.php:451
+#: includes/admin/forms/wpw-auto-poster-facebook.php:469
+#: includes/admin/forms/wpw-auto-poster-facebook.php:469
+#: includes/admin/forms/wpw-auto-poster-instagram.php:409
+#: includes/admin/forms/wpw-auto-poster-instagram.php:409
+#: includes/admin/forms/wpw-auto-poster-instagram.php:426
+#: includes/admin/forms/wpw-auto-poster-instagram.php:426
+#: includes/admin/forms/wpw-auto-poster-twitter.php:398
+#: includes/admin/forms/wpw-auto-poster-twitter.php:398
+#: includes/admin/forms/wpw-auto-poster-twitter.php:423
+#: includes/admin/forms/wpw-auto-poster-twitter.php:423
+msgid "Delete"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:1139
+msgid "Delete Image"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:380
+msgid "Delete Options:"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:305
+msgid "Delete this image"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:513
+msgid "Description is only used for posting on facebook profile(s)."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:541
+msgid "Disable Image posting"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1676
+#: includes/admin/class-wpw-auto-poster-admin.php:1689
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:411
+msgid "display the first name,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:412
+msgid "display the last name,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:413
+msgid "display the post title,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:414
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:508
+msgid "display the sitename/blogname."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:124
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:301
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:399
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:628
+#: includes/admin/forms/wpw-auto-poster-facebook.php:670
+#: includes/admin/forms/wpw-auto-poster-instagram.php:593
+#: includes/admin/forms/wpw-auto-poster-twitter.php:601
+msgid "displays the default post link,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:123
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:300
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:398
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:486
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:627
+#: includes/admin/forms/wpw-auto-poster-facebook.php:669
+#: includes/admin/forms/wpw-auto-poster-instagram.php:592
+#: includes/admin/forms/wpw-auto-poster-twitter.php:600
+msgid "displays the default post title,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:586
+#: includes/admin/forms/wpw-auto-poster-instagram.php:591
+msgid "displays the display name,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:121
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:154
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:298
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:321
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:396
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:484
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:504
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:584
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:625
+#: includes/admin/forms/wpw-auto-poster-facebook.php:667
+#: includes/admin/forms/wpw-auto-poster-instagram.php:589
+msgid "displays the first name,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:663
+msgid "displays the first name."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:236
+#: includes/admin/forms/wpw-auto-poster-twitter.php:602
+msgid "displays the full author name,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:122
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:155
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:299
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:322
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:397
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:485
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:505
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:585
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:626
+#: includes/admin/forms/wpw-auto-poster-facebook.php:668
+#: includes/admin/forms/wpw-auto-poster-instagram.php:590
+msgid "displays the last name,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:664
+msgid "displays the last name."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:125
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:302
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:400
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:487
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:629
+#: includes/admin/forms/wpw-auto-poster-facebook.php:671
+#: includes/admin/forms/wpw-auto-poster-instagram.php:594
+msgid "displays the name of your site,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:158
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:326
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:590
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:668
+msgid "displays the name of your site."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:237
+#: includes/admin/forms/wpw-auto-poster-twitter.php:603
+msgid "displays the nickname of author,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:128
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:159
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:241
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:305
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:329
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:403
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:416
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:490
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:512
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:592
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:669
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:632
+#: includes/admin/forms/wpw-auto-poster-facebook.php:674
+#: includes/admin/forms/wpw-auto-poster-instagram.php:597
+#: includes/admin/forms/wpw-auto-poster-twitter.php:607
+msgid "displays the post categories as hashtags."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:324
+msgid "displays the post content,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:126
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:239
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:303
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:327
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:401
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:488
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:510
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:630
+#: includes/admin/forms/wpw-auto-poster-facebook.php:672
+#: includes/admin/forms/wpw-auto-poster-instagram.php:595
+#: includes/admin/forms/wpw-auto-poster-twitter.php:605
+msgid "displays the post excerpt."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:157
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:235
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:325
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:507
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:589
+msgid "displays the post link,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:667
+msgid "displays the post link."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:127
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:158
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:240
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:304
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:328
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:402
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:415
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:489
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:511
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:591
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:668
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:631
+#: includes/admin/forms/wpw-auto-poster-facebook.php:673
+#: includes/admin/forms/wpw-auto-poster-instagram.php:596
+#: includes/admin/forms/wpw-auto-poster-twitter.php:606
+msgid "displays the post tags as hashtags."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:156
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:234
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:323
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:506
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:587
+msgid "displays the post title,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:665
+msgid "displays the post title."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:238
+msgid "displays the post type,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:588
+msgid "displays the short post description,"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:666
+msgid "displays the short post description."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:480
+msgid "Do not allow individual posts to BufferApp:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:535
+msgid "Do not allow individual posts to Facebook:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:476
+msgid "Do not allow individual posts to Instagram:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:484
+msgid "Do not allow individual posts to LinkedIn:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:512
+msgid "Do not allow individual posts to Pinterest:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:504
+msgid "Do not allow individual posts to Tumblr:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:473
+msgid "Do not allow individual posts to Twitter:"
+msgstr ""
+
+#: social-auto-poster.php:1530
+msgid "Docs"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:31
+msgid "Edit Social Posing Log"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:35
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:84
+msgid "Email"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:51
+msgid "Enable Autoposting to BufferApp:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:64
+msgid "Enable Autoposting to Facebook:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:76
+msgid "Enable Autoposting to Instagram:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:50
+msgid "Enable Autoposting to LinkedIn:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:75
+msgid "Enable Autoposting to Pinterest:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:51
+msgid "Enable Autoposting to Tumblr:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:48
+msgid "Enable Autoposting to Twitter:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:61
+msgid "Enable BufferApp Autoposting for:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:118
+msgid ""
+"Enable Campaign Tracking if you want to see how much traffic generated by "
+"this plugin."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:390
+msgid "Enable Debug:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:74
+msgid "Enable Facebook Autoposting for:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:86
+msgid "Enable Instagram Autoposting for:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:60
+msgid "Enable LinkedIn Autoposting for:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:85
+msgid "Enable Pinterest Autoposting for:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:101
+msgid "Enable Social Posting Logs:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:61
+msgid "Enable Tumblr Autoposting for:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:60
+msgid "Enable Twitter Autoposting for:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:546
+msgid "Enter custom post image url which will posted to bufferapp user's wall."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:430
+#: includes/admin/forms/wpw-auto-poster-facebook.php:461
+msgid "Enter Facebook App ID / API Key."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:328
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:327
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:307
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:307
+#: includes/admin/forms/wpw-auto-poster-facebook.php:335
+#: includes/admin/forms/wpw-auto-poster-instagram.php:327
+#: includes/admin/forms/wpw-auto-poster-twitter.php:309
+msgid ""
+"Enter Google Plus API Key. You need to enable <b>URL Shortener API</b>  in "
+"google plus application"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:405
+#: includes/admin/forms/wpw-auto-poster-instagram.php:423
+msgid "Enter Instagram Password"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:401
+#: includes/admin/forms/wpw-auto-poster-instagram.php:419
+msgid "Enter Instagram Username."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:362
+msgid "Enter LinkedIn App ID/API Key."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:372
+msgid "Enter LinkedIn App Secret."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:418
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:449
+msgid "Enter Pinterest App ID / API Key."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:422
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:453
+msgid "Enter Pinterest App Secret."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:355
+msgid ""
+"Enter the maximum auto posting allowed per hour, day, weekly etc based on "
+"selected schedule wall posts option. Leave blank for unlimited."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:381
+msgid "Enter this URL to your linkedin app in OAuth 2.0 Redirect URLs field."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:399
+#: includes/admin/forms/wpw-auto-poster-twitter.php:424
+msgid "Enter Twitter Access Token Secret."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:394
+#: includes/admin/forms/wpw-auto-poster-twitter.php:419
+msgid "Enter Twitter Access Token."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:386
+#: includes/admin/forms/wpw-auto-poster-twitter.php:411
+msgid "Enter Twitter Consumer Key."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:390
+#: includes/admin/forms/wpw-auto-poster-twitter.php:415
+msgid "Enter Twitter Consumer Secret."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:451
+msgid ""
+"Enter your BufferApp Application Details within the Settings Page, otherwise "
+"posting to BufferApp won't work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:90
+msgid ""
+"Enter your Facebook APP ID / Secret within the Settings Page, otherwise the "
+"Facebook posting won't work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:546
+msgid ""
+"Enter your Instagram username/password within the Settings Page, otherwise "
+"posting to Instagram won't work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:263
+msgid ""
+"Enter your LinkedIn Application Details within the Settings Page, otherwise "
+"posting to LinkedIn won't work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:622
+msgid ""
+"Enter your Pinterest APP ID / Secret within the Settings Page, otherwise the "
+"Pinterest posting won't work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:359
+msgid ""
+"Enter your Tumblr Application Details within the Settings page, otherwise "
+"the posting to Tumblr won't work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:190
+msgid ""
+"Enter your Twitter Application Details within the Settings Page, otherwise "
+"posting to Twitter won't work."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:434
+#: includes/admin/forms/wpw-auto-poster-facebook.php:465
+msgid "EnterFacebook App Secret."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:217
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:195
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:195
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:194
+#: includes/admin/forms/wpw-auto-poster-facebook.php:209
+#: includes/admin/forms/wpw-auto-poster-instagram.php:220
+#: includes/admin/forms/wpw-auto-poster-twitter.php:197
+msgid "Exclude Specific Categories:"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:821
+#: includes/admin/class-wpw-auto-poster-admin.php:454
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:73
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:623
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:678
+msgid "Facebook"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:368
+msgid "Facebook API Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:403
+msgid "Facebook App ID/API Key"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:406
+msgid "Facebook App Secret"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:249
+msgid "Facebook App Version:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:377
+msgid "Facebook Application:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:55
+msgid "Facebook General Settings"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-fb-posting.php:726
+msgid ""
+"Facebook: Please give Grant extended permission before posting to the "
+"Facebook."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-fb-posting.php:714
+#, php-format
+msgid "Facebook: Something was wrong while posting %s"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-fb-posting.php:472
+msgid "Facebook: You have not selected any user for the posting."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:343
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:53
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:573
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:280
+msgid "First schedule"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:51
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:568
+msgid "From Date"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:244
+msgid "Full"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:572
+msgid "General"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:75
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:151
+msgid "Get Google Analytics Tracking code from "
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:454
+msgid "Go to Settings Page"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:90
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:92
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:190
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:263
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:359
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:451
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:546
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:622
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:624
+msgid "Go to the Settings Page"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:113
+msgid "Google Analytics Campaign Tracking:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:129
+msgid "Google Analytics from Social Auto Poster "
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:131
+msgid "Google Analytics from thirdparty plugin"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:152
+msgid "Google Analytics javascript code"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:143
+msgid "Google Analytics Tracking code:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:324
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:323
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:303
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:303
+#: includes/admin/forms/wpw-auto-poster-facebook.php:331
+#: includes/admin/forms/wpw-auto-poster-instagram.php:323
+#: includes/admin/forms/wpw-auto-poster-twitter.php:305
+msgid "Google API Key"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:1243
+msgid "Google Shortner"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:429
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:415
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:408
+msgid "Grant Extended Permissions"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:434
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:456
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:436
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:435
+#: includes/admin/forms/wpw-auto-poster-facebook.php:446
+msgid "Grant extended permissions"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:268
+msgid "Grant extended permissions now"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:363
+msgid "Grant extended permissions now."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:176
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:212
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:154
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:190
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:153
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:190
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:153
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:189
+#: includes/admin/forms/wpw-auto-poster-facebook.php:166
+#: includes/admin/forms/wpw-auto-poster-facebook.php:204
+#: includes/admin/forms/wpw-auto-poster-instagram.php:179
+#: includes/admin/forms/wpw-auto-poster-instagram.php:215
+#: includes/admin/forms/wpw-auto-poster-twitter.php:154
+#: includes/admin/forms/wpw-auto-poster-twitter.php:191
+msgid "hashtags."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:320
+msgid ""
+"Here you can customize the content which will be used by LinkedIn for the "
+"wall post. You can use following template tags within the status text:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:503
+msgid ""
+"Here you can customize the content which will be used for BufferApp wall "
+"post. Leave it empty to use the post content. You can use following template "
+"tags within the custom message:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:583
+msgid ""
+"Here you can enter a custom caption text. Leave it empty to  use the default "
+"one from the settings page. You can use following template tags within the "
+"caption text:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:655
+msgid ""
+"Here you can enter a custom link which will be used for  the board pins. "
+"Leave it empty to use the link of the current post."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:166
+msgid ""
+"Here you can enter a custom link which will be used for  the wall post. "
+"Leave it empty to use the link of the current post. The link must start with"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:317
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:500
+msgid ""
+"Here you can enter a custom link which will be used for the wall post. Leave "
+"it empty to use the link of the current post. The link must start with"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:407
+msgid ""
+"Here you can enter a custom link which will be used on the wall post. Leave "
+"it empty to use the link to the post. The link must start with http://"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:120
+msgid ""
+"Here you can enter a custom message which will be used for the wall post. "
+"Leave it empty to use the post title. You can use following template tags "
+"within the message:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:662
+msgid ""
+"Here you can enter a custom note text. Leave it empty to  use the default "
+"one from the settings page. You can use following template tags within the "
+"notes text:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:153
+msgid ""
+"Here you can enter a custom status update text. Leave it empty to  use the "
+"default one from the settings page. You can use following template tags "
+"within the status text:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:297
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:483
+msgid ""
+"Here you can enter a custom title which will be used for the wall post. "
+"Leave it empty to use the post title. You can use following template tags "
+"within the custom title:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:395
+msgid ""
+"Here you can enter a custom title which will be used on the wall post. Leave "
+"it empty to use the post title. You can use following template tags within "
+"the custom title:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:233
+msgid ""
+"Here you can enter a custom Tweeter template. Leave it empty to use the "
+"default one from the settings page. You can use following template tags "
+"within the status text:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:410
+msgid ""
+"Here you can enter custom content which will appear underneath the post "
+"title in Tumblr. Leave it empty to use the post content. You can use "
+"following template tags within the custom message:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:598
+msgid ""
+"Here you can enter custom tweet template which will be used for the tweet. "
+"Leave it empty to use the post level tweet. You can use following template "
+"tags within the tweet template:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:587
+msgid ""
+"Here you can enter default caption which will be used for the timeline. "
+"Leave it empty to use the post level caption. You can use following template "
+"tags within the caption template:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:665
+msgid ""
+"Here you can enter default message which will be used for the wall post. "
+"Leave it empty to use the post level message. You can use following template "
+"tags within the message template:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:623
+msgid ""
+"Here you can enter default notes which will be used for the pins. Leave it "
+"empty to use the post level notes. You can use following template tags "
+"within the notes template:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:497
+msgid ""
+"Here you can upload a default image which will be used for the BufferApp "
+"wall post. Leave it empty to use the featured image. if featured image is "
+"also blank, then it will take default image from the settings page."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:654
+msgid ""
+"Here you can upload a default image which will be used for the Facebook wall "
+"post."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:147
+msgid ""
+"Here you can upload a default image which will be used for the Facebook wall "
+"post. Leave it empty to use the featured image. if featured image is also "
+"blank, then it will take default image from the settings page."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:580
+msgid ""
+"Here you can upload a default image which will be used for the Instagram "
+"timeline post. Leave it empty to use the featured image. if featured image "
+"is also blank, then it will take default image from the settings page."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:567
+msgid ""
+"Here you can upload a default image which will be used for the Instagram "
+"wall post."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:550
+msgid ""
+"Here you can upload a default image which will be used for the LinkedIn wall "
+"post."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:314
+msgid ""
+"Here you can upload a default image which will be used for the LinkedIn wall "
+"post. Leave it empty to use the featured image. if featured image is also "
+"blank, then it will take default image from the settings page."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:613
+msgid ""
+"Here you can upload a default image which will be used for the Pinterest "
+"board."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:659
+msgid ""
+"Here you can upload a default image which will be used for the Pinterest "
+"post. Leave it empty to use the featured image. if featured image is also "
+"blank, then it will take default image from the settings page."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:540
+msgid ""
+"Here you can upload a default image which will be used for the tumblr post."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:420
+msgid ""
+"Here you can upload a default image which will be used for the Tumblr post. "
+"Leave it empty to use the featured image. if featured image is also blank, "
+"then it will take default image from the settings page."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:229
+msgid ""
+"Here you can upload a default image which will be used for the Tweet Image. "
+"Leave it empty to use the featured image. if featured image is also blank, "
+"then it will take default image from the settings page."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:558
+msgid "Here you can upload a default image which will be used for the Tweet."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:152
+msgid "here."
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1676
+#, php-format
+msgid ""
+"Hola! Would you like to receive automatic updates? Please <a href=\"%s\">"
+"activate your copy</a> of Social Auto Poster."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:901
+msgid "Hourly"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.wpweb.co.in/"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:580
+#: includes/admin/forms/wpw-auto-poster-instagram.php:573
+msgid ""
+"If the image width is less than 320 pixels, it will be automatically "
+"enlarged to 320 pixels. If the image width is greater than 1080 pixels, it "
+"will be automatically resized to 1080 pixels."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:133
+msgid ""
+"If you are using any thirdparty plugin which is adding google analytics "
+"tracking code then select "
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:484
+msgid ""
+"If you check this box, then it will hide meta settings for bufferapp from "
+"individual posts."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:488
+msgid ""
+"If you check this box, then it will hide meta settings for linkedin from "
+"individual posts."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:508
+msgid ""
+"If you check this box, then it will hide meta settings for tumblr from "
+"individual posts."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:479
+msgid ""
+"If you check this box, then it will hide meta settings for twitter from "
+"individual posts."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:487
+msgid ""
+"If you check this option, then all your linked Facebook Accounts won't be "
+"accessible to the plugin. This means that you then will only be able to post "
+"to your personal Facebook Account/Profile."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:384
+msgid ""
+"If you don't want to use the Social Auto Poster Plugin on your site anymore, "
+"you can check that box. This makes sure, that all the settings and tables "
+"are being deleted from the database when you deactivate the plugin."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:476
+#, php-format
+msgid ""
+"If you have enabled %sEnable auto posting to BufferApp%s in global settings "
+"then you do not need to check this box to publish/schedule the post. This "
+"setting is only for republishing Or rescheduling post to BufferApp."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:113
+#, php-format
+msgid ""
+"If you have enabled %sEnable auto posting to Facebook%s in global settings "
+"then you do not need to check this box to publish/schedule the post. This "
+"setting is only for republishing Or rescheduling post to Facebook."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:570
+#, php-format
+msgid ""
+"If you have enabled %sEnable auto posting to Instagram%s in global settings "
+"then you do not need to check this box to publish/schedule the post. This "
+"setting is only for republishing Or rescheduling post to Instagram."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:290
+#, php-format
+msgid ""
+"If you have enabled %sEnable auto posting to LinkedIn%s in global settings "
+"then you do not need to check this box to publish/schedule the post. This "
+"setting is only for republishing Or rescheduling post to LinkedIn."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:645
+#, php-format
+msgid ""
+"If you have enabled %sEnable auto posting to Pinterest%s in global settings "
+"then you do not need to check this box to publish/schedule the post. This "
+"setting is only for republishing Or rescheduling post to Pinterest."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:385
+#, php-format
+msgid ""
+"If you have enabled %sEnable auto posting to Tumblr%s in global settings "
+"then you do not need to check this box to publish/schedule the post. This "
+"setting is only for republishing Or rescheduling post to Tumblr."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:215
+#, php-format
+msgid ""
+"If you have enabled %sEnable auto posting to Twitter%s in global settings "
+"then you do not need to check this box to publish/schedule the post. This "
+"setting is only for republishing Or rescheduling post to Twitter."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:395
+msgid ""
+"If you have trouble with a social posting, then you can activate this option."
+" If checked, debug output will be written to log file."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:539
+msgid ""
+"If you run a multi author blog, then you can prevent your authors to posting "
+"to individual Facebook Accounts by checking this box. If checked, then all "
+"posts, created by any author, will get posted to your chosen Facebook "
+"Account."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:480
+msgid ""
+"If you run a multi author blog, then you can prevent your authors to posting "
+"to individual Instagram Accounts by checking this box. If checked, then all "
+"posts, created by any author, will get posted to your chosen Instagram "
+"Account."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:106
+msgid ""
+"If you want to log all your social posting activities into the database, "
+"then you can activate this option. If checked, social posting data  will be "
+"stored in the database and you can view it from \"Social posting Logs\" "
+"section."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:826
+#: includes/admin/class-wpw-auto-poster-admin.php:459
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:525
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:878
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:693
+msgid "Instagram"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:360
+msgid "Instagram API Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:369
+msgid "Instagram Application:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:59
+msgid "Instagram General Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:383
+msgid "Instagram Password"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:580
+msgid "Instagram require atleast one image for posting."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:569
+msgid "Instagram require atleast one image for posting.  "
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:550
+#: includes/admin/forms/wpw-auto-poster-instagram.php:45
+#, php-format
+msgid ""
+"Instagram requires %sExif%s PHP library enabled. Contact your host or server "
+"administrator to configure and install the missing library."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:548
+#: includes/admin/forms/wpw-auto-poster-instagram.php:39
+#, php-format
+msgid ""
+"Instagram requires %sGD%s PHP library enabled. Contact your host or server "
+"administrator to configure and install the missing library."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:380
+msgid "Instagram Username"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-ins-posting.php:360
+#, php-format
+msgid "Instagram: %s"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-ins-posting.php:325
+msgid ""
+"Instagram: Please, ensure you have added a correct username and password."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-ins-posting.php:320
+msgid ""
+"Instagram: Please, go to <a href=\"https://www.instagram.com/\">https://www."
+"instagram.com/</a>, sign in and verify your account."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-ins-posting.php:209
+msgid "Instagram: You have not selected any user for the posting."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-ins-posting.php:355
+msgid "Instagram: You have not uploaded any image for instagram posting."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:899
+msgid "Instantly"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:28
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:90
+msgid "item"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:36
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:85
+msgid "Item Purchase Code"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:69
+msgid "item purchase code here"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-renderer.php:57
+msgid "Label"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:41
+msgid "Last 7 days"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:147
+#: includes/admin/forms/wpw-auto-poster-facebook.php:655
+msgid "Learn More."
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:22
+msgid "Licence key has been updated successfully."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:348
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:519
+msgid "Link"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:500
+msgid "Link is only used for posting on facebook profile(s)."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:823
+#: includes/admin/class-wpw-auto-poster-admin.php:456
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:253
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:725
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:684
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+msgid "Linkedin"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:339
+msgid "LinkedIn API Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:358
+msgid "LinkedIn App ID/API Key:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:368
+msgid "LinkedIn App Secret:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:348
+msgid "LinkedIn App Settings:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:377
+msgid "Linkedin Callback URL:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:41
+msgid "LinkedIn General Settings"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-li-posting.php:628
+msgid ""
+"LinkedIn: Please give grant extended permission before posting to the "
+"LinkedIn."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-li-posting.php:619
+#, php-format
+msgid "LinkedIn: Something was wrong while posting %s"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:65
+#: includes/admin/forms/wpw-auto-poster-plugin-settings.php:40
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:635
+msgid "Logo"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:397
+msgid "Logs will be written in"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:271
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:269
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:250
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:250
+#: includes/admin/forms/wpw-auto-poster-facebook.php:278
+#: includes/admin/forms/wpw-auto-poster-instagram.php:275
+#: includes/admin/forms/wpw-auto-poster-twitter.php:251
+msgid ""
+"Long URLs will automatically be shortened using the specified URL shortener."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:28
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:637
+msgid "Manage Schedules"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:294
+msgid "Manual"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:490
+msgid "Map WordPress types to BufferApp locations:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:559
+msgid "Map WordPress types to Facebook locations:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:491
+msgid "Map WordPress types to Instagram locations:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:497
+msgid "Map WordPress types to Linkedin locations:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:527
+msgid "Map WordPress types to Pinterest locations:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:485
+msgid "Map WordPress types to Twitter locations:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:350
+msgid "Maximum Posting per schedule:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:564
+msgid "Message Template"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:900
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:183
+msgid "Minutes"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:362
+msgid "Misc Settings"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:225
+msgid "Mode:"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1527
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+msgid "Month"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:153
+msgid "New blog post :"
+msgstr ""
+
+#: social-auto-poster.php:1387
+msgid "New blog post:"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:32
+msgid "New Social Posing Log"
+msgstr ""
+
+#. message to show when no records in database table
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:480
+msgid "No post found."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-renderer.php:86
+msgid "No posting logs yet."
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:36
+msgid "No social posing logs found"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:37
+msgid "No social posing logs found in Trash"
+msgstr ""
+
+#. message to show when no records in database table
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:255
+msgid "No social posting logs found."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:500
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:513
+msgid "Note"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:150
+msgid "NOTE:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:114
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:216
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:291
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:386
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:477
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:571
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:646
+msgid "Note:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:147
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:580
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:659
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:614
+#: includes/admin/forms/wpw-auto-poster-facebook.php:655
+#: includes/admin/forms/wpw-auto-poster-instagram.php:568
+msgid "Note: "
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:558
+#: includes/admin/forms/wpw-auto-poster-facebook.php:599
+#: includes/admin/forms/wpw-auto-poster-instagram.php:518
+msgid "of this user"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:779
+msgid "Once Weekly"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:148
+msgid ""
+"Paste your Google Analytics tracking code here. This will be added into the "
+"header template of your theme."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:349
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:519
+msgid "Photo"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:827
+#: includes/admin/class-wpw-auto-poster-admin.php:460
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:603
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:929
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:696
+msgid "Pinterest"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:361
+msgid "Pinterest API Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:396
+msgid "Pinterest App ID/API Key"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:399
+msgid "Pinterest App Secret"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:370
+msgid "Pinterest Application:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:58
+msgid "Pinterest General Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:38
+#, php-format
+msgid "Pinterest requires %sSSL%s for posting to boards."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:619
+msgid "Pinterest requires SSL for posting to boards."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-pin-posting.php:671
+msgid ""
+"Pinterest: Please give Grant extended permission before posting to the "
+"Pinterest."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-pin-posting.php:661
+#, php-format
+msgid "Pinterest: Something was wrong while posting %s"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-pin-posting.php:497
+msgid "Pinterest: You have not selected any user for the posting."
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:69
+msgid "Place"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:122
+msgid "Please enter valid url."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:141
+msgid "Post As:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-category-social-pin-fields.php:64
+#: includes/admin/forms/wpw-auto-poster-category-social-ins-fields.php:57
+#: includes/admin/forms/wpw-auto-poster-category-social-fb-fields.php:64
+#: includes/admin/forms/wpw-auto-poster-category-social-tw-fields.php:41
+#: includes/admin/forms/wpw-auto-poster-category-social-li-fields.php:48
+msgid ""
+"Post belongs to this category will be posted to selected account(s). This "
+"setting overrides the global default, but can be overridden by a post. Leave "
+"it it empty to use the global defaults."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:240
+msgid "Post Content:"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:922
+msgid "Post date"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:147
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:314
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:420
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:497
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:580
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:659
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:608
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:535
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:545
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:541
+#: includes/admin/forms/wpw-auto-poster-facebook.php:649
+#: includes/admin/forms/wpw-auto-poster-instagram.php:561
+#: includes/admin/forms/wpw-auto-poster-twitter.php:553
+msgid "Post Image:"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:472
+#, php-format
+msgid "Post published on %1$s"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:467
+#, php-format
+msgid "Post scheduled with %1$s"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:224
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:436
+msgid "Post Title"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:921
+msgid "Post title"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:133
+msgid "Post To This Facebook Account"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-category-social-fb-fields.php:30
+msgid "Post To This Facebook Account(s):"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:577
+msgid "Post To This Instagram Account"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-category-social-ins-fields.php:31
+msgid "Post To This Instagram Account(s):"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:311
+msgid "Post To This Linkedin Account"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-category-social-li-fields.php:33
+msgid "Post To This Linkedin Account(s):"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:652
+msgid "Post To This Pinterest Account"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-category-social-pin-fields.php:30
+msgid "Post To This Pinterest Account(s):"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:222
+msgid "Post To This Twitter Account"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-category-social-tw-fields.php:26
+msgid "Post To This Twitter Account(s):"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:225
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:437
+msgid "Post Type"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:923
+msgid "Post type"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:657
+msgid "Post(s) Scheduled successfully."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:663
+msgid "Post(s) Unscheduled successfully."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:420
+msgid ""
+"Posting content to your chosen BufferApp account requires you to grant "
+"extended permissions. If you want to use this feature you should grant the "
+"extended permissions now."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:392
+msgid ""
+"Posting content to your chosen Facebook Fan Page or personal account "
+"requires you to grant extended permissions. If you want to use this feature "
+"you should grant the extended permissions now."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:427
+msgid ""
+"Posting content to your chosen LinkedIn personal account requires you to "
+"grant extended permissions. If you want to use this feature you should grant "
+"the extended permissions now."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:385
+msgid ""
+"Posting content to your chosen Pinterest boards requires you to grant "
+"extended permissions. If you want to use this feature you should grant the "
+"extended permissions now."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:441
+msgid ""
+"Posting content to your chosen Tumblr personal account requires you to grant "
+"extended permissions. If you want to use this feature you should grant the "
+"extended permissions now."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-renderer.php:68
+msgid "Posting Method"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:309
+msgid "Posting order:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:392
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:514
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:193
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:248
+msgid "Posting Type:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:277
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:275
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:256
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:256
+#: includes/admin/forms/wpw-auto-poster-facebook.php:284
+#: includes/admin/forms/wpw-auto-poster-instagram.php:283
+#: includes/admin/forms/wpw-auto-poster-twitter.php:257
+msgid "Pretty permalink URL:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:482
+msgid "Prevent access to my linked accounts:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:245
+msgid "Preview:"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:33
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:82
+msgid "Product"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:462
+msgid "Publish Post On BufferApp:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:99
+msgid "Publish Post On Facebook:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:556
+msgid "Publish Post On Instagram:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:276
+msgid "Publish Post On LinkedIn:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:631
+msgid "Publish Post On Pinterest:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:371
+msgid "Publish Post On Tumblr:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:201
+msgid "Publish Post On Twitter:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:100
+msgid "Publish this Post to Facebook Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:557
+msgid "Publish this Post to Instagram timeline."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:632
+msgid "Publish this Post to Pinterest board."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:372
+msgid "Publish this Post to Tumblr Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:202
+msgid "Publish this Post to Twitter."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:463
+msgid "Publish this post to your BufferApp Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:277
+msgid "Publish this Post to your LinkedIn."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:494
+msgid "Publish To This BufferApp Account:"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:197
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:247
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:520
+msgid "Published"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:453
+msgid "Published Date"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:924
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:197
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:252
+msgid "Randomly"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:466
+msgid "Re-publish Post On BufferApp:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:103
+msgid "Re-publish Post On Facebook:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:560
+msgid "Re-publish Post On Instagram:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:280
+msgid "Re-publish Post On LinkedIn:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:635
+msgid "Re-publish Post On Pinterest:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:375
+msgid "Re-publish Post On Tumblr:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:205
+msgid "Re-publish Post On Twitter:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:104
+msgid "Re-publish this Post to Facebook Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:561
+msgid "Re-publish this Post to Instagram timeline."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:636
+msgid "Re-publish this Post to Pinterest board."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:376
+msgid "Re-publish this Post to Tumblr Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:206
+msgid "Re-publish this Post to Twitter."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:467
+msgid "Re-publish this post to your BufferApp Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:281
+msgid "Re-publish this Post to your LinkedIn."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:469
+msgid "Re-schedule Post On BufferApp:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:106
+msgid "Re-schedule Post On Facebook:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:563
+msgid "Re-schedule Post On Instagram:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:283
+msgid "Re-schedule Post On LinkedIn:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:638
+msgid "Re-schedule Post On Pinterest:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:378
+msgid "Re-schedule Post On Tumblr:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:208
+msgid "Re-schedule Post On Twitter:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:107
+msgid "Re-schedule this Post to Facebook Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:564
+msgid "Re-schedule this Post to Instagram timeline."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:639
+msgid "Re-schedule this Post to Pinterest board."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:379
+msgid "Re-schedule this Post to Tumblr Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:209
+msgid "Re-schedule this Post to Twitter."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:470
+msgid "Re-schedule this post to your BufferApp Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:284
+msgid "Re-schedule this Post to your LinkedIn."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-instagram.php:571
+msgid "Recommended image width between 320 to 1080 pixels."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:400
+msgid "Record (s) deleted successfully."
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:720
+#: includes/meta-boxes/meta-box-class.php:776
+#: includes/meta-boxes/meta-box-class.php:776
+msgid "Remove"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:307
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-plugin-settings.php:47
+#: includes/admin/forms/wpw-auto-poster-plugin-settings.php:91
+msgid "Reset All Settings"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:207
+msgid "Reset Status"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:431
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:450
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:433
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:429
+#: includes/admin/forms/wpw-auto-poster-facebook.php:443
+msgid "Reset User Session"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:133
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:222
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:311
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:577
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:652
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:558
+#: includes/admin/forms/wpw-auto-poster-facebook.php:599
+#: includes/admin/forms/wpw-auto-poster-instagram.php:518
+msgid "s"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:337
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:473
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:644
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:336
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:401
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:471
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:549
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:315
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:389
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:451
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:558
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:316
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:381
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:446
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:555
+#: includes/admin/forms/wpw-auto-poster-facebook.php:344
+#: includes/admin/forms/wpw-auto-poster-facebook.php:496
+#: includes/admin/forms/wpw-auto-poster-facebook.php:687
+#: includes/admin/forms/wpw-auto-poster-instagram.php:336
+#: includes/admin/forms/wpw-auto-poster-instagram.php:442
+#: includes/admin/forms/wpw-auto-poster-instagram.php:610
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:416
+#: includes/admin/forms/wpw-auto-poster-twitter.php:317
+#: includes/admin/forms/wpw-auto-poster-twitter.php:439
+#: includes/admin/forms/wpw-auto-poster-twitter.php:618
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:400
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:495
+msgid "Schedule"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:472
+msgid "Schedule Post On BufferApp:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:109
+msgid "Schedule Post On Facebook:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:566
+msgid "Schedule Post On Instagram:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:286
+msgid "Schedule Post On LinkedIn:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:641
+msgid "Schedule Post On Pinterest:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:381
+msgid "Schedule Post On Tumblr:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:211
+msgid "Schedule Post On Twitter:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:159
+msgid "Schedule Settings"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:110
+msgid "Schedule this Post to Facebook Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:567
+msgid "Schedule this Post to Instagram timeline."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:642
+msgid "Schedule this Post to Pinterest board."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:382
+msgid "Schedule this Post to Tumblr Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:212
+msgid "Schedule this Post to Twitter."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:473
+msgid "Schedule this Post to your BufferApp Userwall."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:287
+msgid "Schedule this Post to your LinkedIn."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:206
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:260
+msgid "Schedule Time:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:165
+msgid "Schedule Wall Posts:"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1002
+msgid "Schedule: "
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:199
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:249
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:521
+msgid "Scheduled"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:440
+msgid "Scheduled Date"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:708
+msgid "Search"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:35
+msgid "Search Social Posing Log"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:300
+msgid "Second schedule"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:346
+msgid "Select"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:1175
+msgid "Select a color"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:141
+msgid ""
+"Select a Facebook post type. Leave it empty to use the default one from the "
+"settings page."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:494
+msgid ""
+"Select an account to which you want to post. Leave it empty to use the "
+"default one from the settings page."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:133
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:222
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:311
+msgid ""
+"Select an account to which you want to post. This setting overrides the "
+"global and category settings. Leave it  empty to use the global/category "
+"defaults."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:577
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:652
+msgid ""
+"Select an account to which you want to post. This setting overrides the "
+"global settings. Leave it  empty to use the global defaults."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:181
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:159
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:159
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:158
+#: includes/admin/forms/wpw-auto-poster-facebook.php:171
+#: includes/admin/forms/wpw-auto-poster-instagram.php:184
+#: includes/admin/forms/wpw-auto-poster-twitter.php:160
+msgid "Select Categories:"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1386
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:546
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:547
+msgid "Select Category"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:257
+msgid ""
+"Select Facebook App version you are using for auto posting. Please make sure "
+"you create all Facebook apps with version \"2.8 or below\" OR you create all "
+"Facebook apps with version \"2.9 or above\"."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:340
+msgid ""
+"Select scheduled post posting order. All scheduled post will be posted on "
+"selected <strong>posting order</strong>."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:141
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:119
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:118
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:118
+#: includes/admin/forms/wpw-auto-poster-facebook.php:129
+#: includes/admin/forms/wpw-auto-poster-instagram.php:142
+#: includes/admin/forms/wpw-auto-poster-twitter.php:119
+msgid "Select Tags:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:251
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:229
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:229
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:228
+#: includes/admin/forms/wpw-auto-poster-facebook.php:244
+#: includes/admin/forms/wpw-auto-poster-instagram.php:254
+#: includes/admin/forms/wpw-auto-poster-twitter.php:231
+msgid ""
+"Select the categories for each post type that you want to exclude for "
+"posting."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:212
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:190
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:190
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:189
+#: includes/admin/forms/wpw-auto-poster-facebook.php:204
+#: includes/admin/forms/wpw-auto-poster-instagram.php:215
+#: includes/admin/forms/wpw-auto-poster-twitter.php:191
+msgid "Select the Categories for each post type that you want to post as "
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:199
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:254
+msgid "Select the Posting Type option."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:240
+msgid "Select the schedule time."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:186
+msgid ""
+"Select the Schedule wall post option. If you don't want to auto post your "
+"content on social network sites immediately, then you can schedule them from "
+"here like: Minutes, Hourly, Twice Daily, Daily or Weekly.<br><br>If you "
+"select <strong>Hourly</strong>, you will get one more drop-down option on "
+"each <strong><i>Post, Page or Custom post type</i></strong> for Schedule "
+"Time to set time, so you can set at what time wall posting should be done."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:176
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:154
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:153
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:153
+#: includes/admin/forms/wpw-auto-poster-facebook.php:166
+#: includes/admin/forms/wpw-auto-poster-instagram.php:179
+#: includes/admin/forms/wpw-auto-poster-twitter.php:154
+msgid "Select the Tags for each post type that you want to post as "
+msgstr ""
+
+#: social-auto-poster.php:1528
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:24
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:1242
+msgid "shorte.st"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:316
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:314
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:295
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:295
+#: includes/admin/forms/wpw-auto-poster-facebook.php:323
+#: includes/admin/forms/wpw-auto-poster-instagram.php:315
+#: includes/admin/forms/wpw-auto-poster-twitter.php:296
+msgid "Shorte.st API Token"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:302
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:304
+msgid "Show all post title"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:530
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:532
+msgid "Show all post type"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:322
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:324
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:21
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:22
+msgid "Show all social type"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:551
+msgid "Show all status"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:247
+msgid "Snippets"
+msgstr ""
+
+#. Name of the plugin
+#: includes/wpw-auto-poster-misc-functions.php:159
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:22
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:22
+msgid "Social Auto Poster"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Social Auto Poster lets you automatically post all your content to several "
+"different social networks."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:25
+msgid "Social Auto Poster Posting Logs"
+msgstr ""
+
+#: includes/admin/class-wpw-auto-poster-admin.php:1688
+msgid ""
+"Social Auto Poster requires WPWEB Updater version greater then 1.0.4. Please "
+"Upgrade to latest version."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:51
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:24
+#: includes/admin/forms/wpw-auto-poster-plugin-settings.php:43
+msgid "Social Auto Poster Settings"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-scripts.php:150
+msgid "Social Network Statistics"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:28
+msgid "Social Posing Log"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:27
+#: includes/wpw-auto-poster-post-types.php:39
+msgid "Social Posing Logs"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-renderer.php:48
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:25
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:66
+msgid "Social Posting Logs"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:227
+msgid "Social Type"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:196
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:251
+msgid "Specific Time"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:438
+msgid "Status"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:459
+msgid "Status of BufferApp wall post like published/unpublished/scheduled."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:96
+msgid "Status of Facebook wall post like published/unpublished/scheduled."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:553
+msgid "Status of Instagram timeline like published/unpublished/scheduled."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:273
+msgid "Status of LinkedIn wall post like published/unpublished/scheduled."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:628
+msgid "Status of Pinterest board post like published/unpublished/scheduled."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:368
+msgid "Status of Tumblr wall post like published/unpublished/scheduled."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:197
+msgid "Status of Twitter wall post like published/unpublished/scheduled."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:153
+msgid "Status Update Text:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:96
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:197
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:273
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:368
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:459
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:553
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:628
+msgid "Status:"
+msgstr ""
+
+#: social-auto-poster.php:1529
+msgid "Support"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:347
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:519
+msgid "Text"
+msgstr ""
+
+#: includes/updater/includes/admin/class-wpweb-upd-admin.php:30
+msgid "The WPWeb Updater"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:676
+msgid ""
+"There is no meta settings allowed to be set for individual posts from global "
+"setting."
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:76
+msgid "There is no product available for update."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:134
+msgid "thirdparty option."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:37
+msgid "This Month"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:147
+#: includes/admin/forms/wpw-auto-poster-facebook.php:655
+msgid ""
+"This option only work if your facebook app version is below 2.9. If you're "
+"using latest facebook app, it wont work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:114
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:216
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:291
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:386
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:477
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:571
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:646
+#, php-format
+msgid ""
+"This setting is just an event to republish/reschedule the content, It will "
+"not save any value to %sdatabase%s."
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:1240
+msgid "TinyURL"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:52
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:569
+msgid "To Date"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:824
+#: includes/admin/class-wpw-auto-poster-admin.php:457
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:340
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:776
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:687
+msgid "Tumblr"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:360
+msgid "Tumblr API Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:370
+msgid "Tumblr Application:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:42
+msgid "Tumblr General Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:380
+msgid "Tumblr OAuth Consumer Key:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:389
+msgid "Tumblr Secret Key:"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-tb-posting.php:458
+#: includes/social/class-wpw-auto-poster-tb-posting.php:463
+#, php-format
+msgid "Tumblr: Error while posting %s"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-tb-posting.php:479
+msgid ""
+"Tumblr: Please give Grant extended permission before posting to the Tumblr."
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-tb-posting.php:473
+#, php-format
+msgid "Tumblr: Something was wrong while posting %s"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:229
+msgid "Tweet Image:"
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:225
+msgid "Tweet Template Mode."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:233
+msgid "Tweet Template:"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:902
+msgid "Twice Daily"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:822
+#: includes/admin/class-wpw-auto-poster-admin.php:455
+#: includes/admin/class-wpw-auto-poster-admin.php:1529
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:180
+#: includes/admin/forms/wpw-auto-poster-settings-functions.php:674
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:681
+msgid "Twitter"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:341
+msgid "Twitter API Settings"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:351
+msgid "Twitter Application:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:39
+msgid "Twitter General Settings"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-tw-posting.php:288
+#, php-format
+msgid "Twitter: Error while posting %s"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-tw-posting.php:295
+#, php-format
+msgid "Twitter: Something was wrong while posting %s"
+msgstr ""
+
+#: includes/social/class-wpw-auto-poster-tw-posting.php:126
+msgid "Twitter: You have not selected any user for the posting."
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:195
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:245
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:519
+msgid "Unpublished"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:405
+#: includes/admin/forms/wpw-auto-poster-manage-schedules-list.php:496
+msgid "Unschedule"
+msgstr ""
+
+#: includes/meta-boxes/class-wpw-auto-poster-meta.php:360
+msgid "Update"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:1088
+#: includes/meta-boxes/meta-box-class.php:1100
+msgid "Upload a File"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:1148
+msgid "Upload Image"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:1045
+msgid "Upload new files"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:1033
+msgid "Uploaded files"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:256
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:254
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:235
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:235
+#: includes/admin/forms/wpw-auto-poster-facebook.php:263
+#: includes/admin/forms/wpw-auto-poster-instagram.php:260
+#: includes/admin/forms/wpw-auto-poster-twitter.php:236
+msgid "URL Shortener:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-general-settings.php:125
+msgid "Use Google Analytics:"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:34
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:83
+msgid "Version"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:152
+#: includes/admin/forms/wpw-auto-poster-posted-logs-list.php:226
+msgid "View Details"
+msgstr ""
+
+#: includes/wpw-auto-poster-post-types.php:34
+msgid "View Social Posing Log"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:904
+msgid "Weekly"
+msgstr ""
+
+#: includes/updater/includes/admin/forms/wpweb-upd-helper.php:19
+msgid "Welcome to WPWeb Updater"
+msgstr ""
+
+#: includes/class-wpw-auto-poster-model.php:1239
+msgid "WordPress"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPWeb"
+msgstr ""
+
+#: includes/updater/includes/admin/class-wpweb-upd-admin.php:30
+msgid "WPWeb Updater"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-posted-logs-reports.php:33
+msgid "Year"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:447
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:432
+msgid "You already granted extended permissions"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:429
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:426
+#: includes/admin/forms/wpw-auto-poster-facebook.php:441
+msgid "You already granted extended permissions."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:354
+#, php-format
+msgid ""
+"You can get a step by step tutorial on how to create a BufferApp Application "
+"on our %sDocumentation%s."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-facebook.php:383
+#, php-format
+msgid ""
+"You can get a step by step tutorial on how to create a Facebook Application "
+"on our %sDocumentation%s."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-linkedin.php:352
+#, php-format
+msgid ""
+"You can get a step by step tutorial on how to create a LinkedIn Application "
+"on our %sDocumentation%s."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:376
+#, php-format
+msgid ""
+"You can get a step by step tutorial on how to create a Pinterest Application "
+"on our %sDocumentation%s."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-tumblr.php:374
+#, php-format
+msgid ""
+"You can get a step by step tutorial on how to create a Tumblr Application on "
+"our %sDocumentation%s."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-twitter.php:355
+#, php-format
+msgid ""
+"You can get a step by step tutorial on how to create a Twitter Application "
+"on our %sDocumentation%s."
+msgstr ""
+
+#: includes/meta-boxes/meta-box-class.php:193
+msgid "You must have at least one file."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:659
+#: includes/admin/forms/wpw-auto-poster-pinterest.php:614
+msgid ""
+"You need to select atleast one image, otherwise pinterest posting will not "
+"work."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:454
+msgid "Your App doesn't have enough permissions to publish on BufferApp."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:92
+msgid "Your App doesn't have enough permissions to publish on Facebook."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:268
+msgid "Your App doesn't have enough permissions to publish on Linkedin."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:624
+msgid "Your App doesn't have enough permissions to publish on Pinterest."
+msgstr ""
+
+#: includes/meta-boxes/wpw-auto-poster-meta-box.php:363
+msgid "Your App doesn't have enough permissions to publish on Tumblr."
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:360
+msgid "Your BufferApp Client ID:"
+msgstr ""
+
+#: includes/admin/forms/wpw-auto-poster-bufferapp.php:369
+msgid "Your BufferApp Client Secret:"
+msgstr ""

@@ -1,0 +1,19 @@
+.wpwebupd-required-email{
+	box-shadow: 0 0 5px rgba(204, 48, 48, 0.8) !important;
+	border:1px solid rgba(204,48,48, 0.8) !important;
+	-webkit-transition: all 0.30s ease-in-out !important;
+	-moz-transition: all 0.30s ease-in-out !important;
+	-ms-transition: all 0.30s ease-in-out !important;
+	-o-transition: all 0.30s ease-in-out !important;
+}
+.wpwebupd-invalid-email, .wpwebupd-done-email{
+	width:17px;
+	height:17px;
+	margin-left:5px;
+	vertical-align: text-bottom;
+	cursor:pointer;
+	display:none;
+}
+.wpwebupd-email-field{
+	width:90%;
+}

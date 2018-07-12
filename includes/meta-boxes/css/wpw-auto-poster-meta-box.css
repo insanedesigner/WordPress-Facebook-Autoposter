@@ -1,0 +1,97 @@
+table.wpw-auto-poster-stat-table{
+	width:70%;
+}
+table.wpw-auto-poster-stat-table tr td{
+	 width: 35%;
+}
+.red-color {
+    color: #dd1919 !important;
+}
+.wpw-auto-poster-tweet-edit-template {
+	display:none;
+}
+.wpw-auto-poster-tweet-edit-template input[type="button"] {
+	margin:5px 10px 0px 0px !important;
+}
+.wpw-auto-poster-tweet-template {
+	padding:5px;
+	border:1px solid #F5F5F5;
+}
+.wpw-auto-poster-tweet-template span {
+	padding:5px;
+	display:block;
+}
+.wpw-auto-poster-tweet-template-loader{
+	display:none;
+}
+.wpw-auto-poster-tweet-template span:hover{
+	background-color:#FFFFE0;
+}
+.wpw-auto-poster-tweet-mode {
+	float:left;
+	color: #2683AE;
+    font-weight: bold;
+    margin-right:5px;
+    width: 10%;
+    cursor: default;
+}
+.wpw-auto-poster-reset-tweet-template{
+	 outline: medium none !important;
+}
+.wpw-auto-poster-tweet-preview{
+	width:93%;
+	max-width:95%;
+	display: inline-block;
+}
+.tweet-mode-full-width{
+	width:100% !important;
+}
+.tweet-template-warning-message {
+    background: #f9cdcd;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    color: #4b4b4b;
+    border: 1px solid #f27d7d;
+    margin-top: 5px;
+}
+.wpw-auto-poster-tweet-preview-count{
+ 	color: #2683AE;
+    font-size: 18px;
+    float:right;
+}
+.tweet-mode-loader {
+	padding: 3px 10px !important;
+}
+.wpw-auto-poster-error {
+	padding:5px 0px 5px 10px;
+	margin:10px 0px 0px 0px;
+	background-color: #FFEBE8;
+    border-color: #CC0000;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+}
+.wpw-auto-poster-metabox-wrapper .wpw-auto-poster-rstatus{
+	margin: 0px 8px;
+	vertical-align: middle;
+}
+.wpw-auto-poster-loader{
+	float: none !important;
+}
+.wpw-auto-poster-metabox-wrapper .wpw-auto-poster-show{
+	display: inline-block;
+}
+.wpw-auto-poster-fade-error {
+    background: none repeat scroll 0 0 #0073AA;
+    border-radius: 10px;
+    top: 50%;
+    color: #fff;
+    left: 45%;
+    opacity: 0.8;
+    padding: 10px;
+    position: fixed;
+    text-align: center;
+    width: 200px;
+    z-index: 100;
+}

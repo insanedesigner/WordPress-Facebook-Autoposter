@@ -1,0 +1,7 @@
+<wpml-config>   
+    <admin-texts>
+    	<key name="wpw_auto_poster_options">
+			<key name="custom_status_msg" />
+		</key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,441 @@
+/**
+ * All Types Meta Box Class CSS
+ *
+ * CSS used for the custom metaboxes and other form items.
+ */
+
+/* =Common Rules for all fields.
+----------------------------------------------- */
+.form-table td.wpw-auto-poster-meta-field { 
+	padding: 10px 10px 20px; 
+	margin: 0px; 
+}
+.wpw-auto-poster-meta-label { 
+	margin: 0 0 5px 0; 
+	padding: 5px 0 0 0; 
+}
+
+.wpw-auto-poster-meta-radio-label { 
+	padding-right: 10px; 
+}				
+
+.wpw-auto-poster-meta-file-upload-label { 
+	clear: both; 
+	margin: 5px 0px 5px 1px;
+}
+
+/* =Form Fields
+----------------------------------------------- */
+
+.postbox .wpw-auto-poster-meta-field input,
+.postbox .wpw-auto-poster-meta-field textarea { 
+	padding: 5px; 
+	line-height: 18px; 
+} 
+.ui-datepicker-current{
+	display:none;
+}
+.postbox .wpw-auto-poster-meta-field input.wpw-auto-poster-meta-radio{}
+.postbox .wpw-auto-poster-meta-field input.wpw-auto-poster-meta-color { 
+	border: 0px; 
+	-webkit-border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	border-radius: 5px; 
+	margin-right: 10px; 
+	min-width: 100px; 
+}
+.wpw-auto-poster-meta-field input:focus, 
+.wpw-auto-poster-meta-field textarea:focus { 
+	background: #fffff8; 
+}
+#wpcontent select.wpw-auto-poster-meta-select { 
+	height: 30px !important; 
+	padding: 5px; 
+	display: block; 
+	min-width: 59%; 
+}
+.wpw-auto-poster-meta-field .desc-field { 
+	color: #AAA; 
+	font-style: italic; 
+	margin: 5px 0 0 3px !important; 
+	font-size: 13px; 
+}
+.wpw-auto-poster-meta-field .wp_themeSkin table.mceLayout { 
+	border: 1px solid #DFDFDF; 
+}
+#post-body .wpw-auto-poster-meta-field .wp_themeSkin .mceStatusbar a.mceResize { 
+	top: -25px; 
+} 
+p.wpw-auto-poster-meta,.desc-field {
+	color: #7d7d7d;
+	font-style: italic;
+	margin: 5px 0;
+	font-size: 13px; 
+}
+.wp-editor-container .wp_themeSkin iframe {
+
+	background: #fff !important;
+
+	min-height:350px !important;
+
+}
+
+.desc-field code{
+	line-height: 2;
+}
+
+/* =Uploaded Images
+
+----------------------------------------------- */
+
+.wpw-auto-poster-meta-images li { 
+
+	margin: 5px 10px 0px 0; 
+
+	float: left; 
+
+	width: 150px; 
+
+	height: 150px; 
+
+	text-align: center; 
+
+	border: 3px solid #ccc; 
+
+	cursor: move; 
+
+	position: relative; 
+
+	-webkit-border-radius: 3px; 
+
+	-moz-border-radius: 3px; 
+
+	border-radius: 3px; 
+
+}
+
+.wpw-auto-poster-meta-images img { 
+
+	width: 150px; 
+
+	height: 150px; 
+
+}
+
+.wpw-auto-poster-meta-images a { 
+
+	position: absolute; 
+
+	top: -12px; 
+
+	right: -12px; 
+
+	color: #fff;  
+
+	font-weight: bold; 
+
+	padding: 5px; 
+
+}
+
+.wpw-auto-poster-meta-images .wpw-auto-poster-meta-delete-file img{
+
+	width: 16px; 
+
+	height: 16px; 
+
+}
+
+
+
+/* =Upload Button
+
+----------------------------------------------- */
+
+.wpw-auto-poster-meta-upload-button { 
+
+	float: left; 
+
+	clear: both; 
+
+	margin-top: 10px; 
+
+}
+
+.wpw-auto-poster-meta-add-file { 
+
+	float: left; 
+
+	clear: both; 
+
+	margin-top: 10px; 
+
+}
+
+ 
+
+/* =Time Picker
+
+----------------------------------------------- */
+
+.ui-timepicker-div { 
+
+	font-size: 0.9em; 
+
+}
+
+.ui-timepicker-div .ui-widget-header { 
+
+	margin-bottom: 8px; 
+
+}
+
+.ui-timepicker-div dl { 
+
+	text-align: left; 
+
+}
+
+.ui-timepicker-div dl dt { 
+
+	height: 25px; 
+
+}
+
+.ui-timepicker-div dl dd { 
+
+	margin: 0px 0 10px 65px; 
+
+}
+
+.ui-timepicker-div td { 
+
+	font-size: 90%; 
+
+}
+
+
+
+/* =Repater Block
+
+----------------------------------------------- */
+
+.wpw-auto-poster-meta-repater-block {
+
+	background: #fff;
+
+	border: 1px solid #DFDFDF;
+
+	border-radius: 5px;
+
+	padding: 5px 5px 5px 10px;
+
+	margin-bottom: 15px;
+
+	float: left;
+
+	position: relative;
+
+	display: block;
+
+	width: 100%;
+
+}
+
+.wpw-auto-poster-meta-repater-block img {
+
+	margin-right: 15px;
+
+	float: right;
+
+}
+
+.wpw-auto-poster-meta-repeat img {
+
+	cursor: pointer;
+
+}
+
+/* inline */
+
+.wpw-auto-poster-meta-inline label {
+
+	font-size: 12px !important;
+
+}
+
+.wpw-auto-poster-meta-inline textarea {
+
+	height: 130px;
+
+	width: 200px;
+
+}
+
+
+
+.wpw_auto_fbre_success_msg .wp-editor {
+
+	background-color: #fff !important;
+
+}
+
+
+
+/*** CSS For MetaBox Tabs *****/
+
+/**
+
+ * Metabox Tabs
+
+ */
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs {
+
+	display: none;
+
+	margin-top: 12px;
+
+	margin-bottom: 3px;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul {
+
+	list-style: none;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs li {
+
+	display: inline;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs li.active {
+
+	border-style: solid solid none;
+
+	border-width: 1px 1px 0;
+
+	background: #fff;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs li {
+
+	padding: 5px;
+
+	-moz-border-radius: 3px 3px 0 0;
+
+	-webkit-border-top-left-radius: 3px;
+
+	-webkit-border-top-right-radius: 3px;
+
+	-khtml-border-top-left-radius: 3px;
+
+	-khtml-border-top-right-radius: 3px;
+
+	border-top-left-radius: 3px;
+
+	border-top-right-radius: 3px;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs a {
+
+	text-decoration: none;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div div.tabs-panel {
+
+	overflow: auto;
+
+	padding: 0.5em 0.9em;
+
+	border-style: solid;
+
+	border-width: 1px;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div .heading {
+
+	padding-left:10px;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div .tab-content{
+
+	padding: 0.5em 0.9em;
+
+	border-style: solid;
+
+	border-width: 1px;
+
+	background: #fff;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs li.active {
+
+	background-color: #fff;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs li.active, div.tab-content {
+
+	border-color: #D1E5EE;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs .active a {
+
+	color: #333;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs li.active, div.tab-content {
+
+	border-color: #DFDFDF;
+
+}
+
+.wpw-auto-poster-metabox-tabs-div ul.metabox-tabs .active a {
+
+	color: #333;
+
+}
+
+.wpw-auto-poster-upload-files{
+
+	background: none repeat scroll 0 0 #FFFFFF;
+
+    display: block;
+
+   /* padding: 2px 8px;*/
+
+    position: relative;
+
+    right: 30px;
+
+    top: 5px;
+
+    margin-top: -27px;
+
+    float: right;
+
+}
+
+.wpw-auto-poster-upload-files a {
+
+	text-decoration:none;
+
+}
+
+table.wpw-auto-poster-stat-table tr th {
+
+	 width: 100px;
+
+}

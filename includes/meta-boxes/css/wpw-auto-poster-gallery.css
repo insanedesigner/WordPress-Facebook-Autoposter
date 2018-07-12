@@ -1,0 +1,17 @@
+#wpw_auto_poster_meta #gallery-metabox-list li {
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+  margin: 10px 10px 10px 0;
+  cursor: move;
+}
+#wpw_auto_poster_meta #gallery-metabox-list .image-container{
+	padding: 5px;
+	border: 1px solid #b4b3b3;
+	display: block;
+	margin-bottom: 5px;
+}
+
+#wpw_auto_poster_meta #gallery-metabox-list .image-preview{
+	width: 100%;
+}
